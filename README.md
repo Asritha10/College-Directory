@@ -32,7 +32,7 @@ To get started with the University Management System, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Asritha10/College-Directory.git
 2. **Preferrable IDE**: Use Eclipse IDE or IntelliJ.
 3. **Download the DB file:** Download the ums_db.sql file and import it on any MySQL workbench. Recommended - Use the MySQL workbench in phpMyAdmin of XAMPP server.
 
