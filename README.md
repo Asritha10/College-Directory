@@ -63,5 +63,29 @@ For more detailed usage instructions, refer to the user documentation.
 ## Demo
 Since this is a locally hosted desktop application. It is recommended to download XAMPP server and import the DB file and import it in the MySQL workbench set inbuilt.
 
+## Screenshots
+![Screenshot (8)](https://github.com/user-attachments/assets/738bc5db-8ab0-4769-8703-77a6c9844504)
+
+![Screenshot (9)](https://github.com/user-attachments/assets/b5c2cf86-a276-42c4-b952-1f2246731dc2)
+
+![Screenshot_20230105_082557](https://github.com/user-attachments/assets/2599a357-3d65-4456-bac8-4e117631c409)
+
+![Screenshot_20230105_082750](https://github.com/user-attachments/assets/f1e34594-02e3-4ff4-8a37-cb24b6527f29)
+
+![Screenshot_20230105_083002](https://github.com/user-attachments/assets/5a88574b-3a05-4b7b-a40a-3592abce7133)
+
+![Screenshot_20230105_083255](https://github.com/user-attachments/assets/5b35ad36-020f-48d3-9230-040c68eba04a)
+
+![Screenshot_20230105_083416](https://github.com/user-attachments/assets/6b55c842-ea8b-4181-854b-de1d07b5d813)
+
+![Screenshot_20230105_083812](https://github.com/user-attachments/assets/4143a17a-8ada-4c94-9f1d-cda362e4b5c1)
+
+![Screenshot_20230105_084115](https://github.com/user-attachments/assets/107d44d8-aa5a-4ef0-8f37-7e6ed44785c8)
+
+![Screenshot_20230105_103444](https://github.com/user-attachments/assets/cb5d8ef4-2564-41c3-886a-04a2dadf083a)
+
+![Screenshot_20230105_103539](https://github.com/user-attachments/assets/f5957b6c-6d74-482a-a992-c2b7b07f0735)
+
+
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own educational or organizational purposes. If you make improvements or modifications, consider contributing them back to the project as well.
